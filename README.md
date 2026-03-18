@@ -1,5 +1,3 @@
-# tripleten_sprint_3_manipulacao_de_dados
-
 # Sprint 3 - Análise Exploratória de Dados (Instacart)
 
 ## Descrição do Projeto
