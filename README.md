@@ -15,8 +15,8 @@ O conjunto de dados fornecido pela TripleTen foi modificado a partir do original
 
 ---
 
-## Objetivo
-
+## Objetivo TM
+ 
 Realizar o **pré-processamento** dos dados e conduzir uma análise exploratória para identificar padrões e comportamentos dos clientes, como:
 - Frequência de pedidos
 - Horários e dias mais comuns de compra
